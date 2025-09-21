@@ -1,0 +1,19 @@
+Requirements:
+================
+
+
+Programming Language: 
+----------------------
+Python (3.7.6)
+
+Libraries:
+-------------
+pandas – data handling
+
+scikit-learn – ML algorithms (SVM, metrics, preprocessing)
+
+NumPy – numerical operations
+
+Dataset used: 
+--------------
+UCI SMS Spam dataset / custom labeled dataset

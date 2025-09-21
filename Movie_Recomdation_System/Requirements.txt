@@ -1,0 +1,13 @@
+requirements:
+=================
+
+libraries are the following:
+---------------------------
+pandas
+scikit-learn
+NumPy
+
+Code Editors:
+--------------
+
+Jupyter notebook.
